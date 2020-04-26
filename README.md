@@ -1,2 +1,2 @@
-# mobirisem4-pure-css-fading-slideshow-with-scaling-image
+# Pure CSS Fading Slideshow with Scaling Iimage (Codeconvey to Mobirise)
 GitHub Pages
