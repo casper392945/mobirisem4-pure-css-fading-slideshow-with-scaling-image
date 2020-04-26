@@ -1,2 +1,2 @@
-# Pure CSS Fading Slideshow with Scaling Iimage (Codeconvey to Mobirise)
+# Pure CSS Fading Slideshow with Scaling Image (Codeconvey to Mobirise)
 GitHub Pages
